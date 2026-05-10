@@ -1,3 +1,8 @@
+<div style="display:block;background:#141a24;">
+	<img src="" alt="" style="background:#141a24;display:block;width:100%;height:auto;max-width:100%;margin:16px auto;">
+</div>
+
+
 # Awesome Web Development & Architecture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome web development resources, high-performance architecture guides, tools, and enterprise scaling strategies by [NeedleCode](https://needlecode.com/).
