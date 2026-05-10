@@ -1,5 +1,5 @@
 <div style="display:block;background:#141a24;">
-	<img src="github.com/needlecodev/awesome-list/blob/main/needlecode-awesome-list.png?raw=true" alt="" style="background:#141a24;display:block;width:100%;height:auto;max-width:100%;margin:16px auto;">
+	<img src="https://raw.githubusercontent.com/needlecodev/awesome-list/refs/heads/main/needlecode-awesome-list.png" alt="" style="background:#141a24;display:block;width:100%;height:auto;max-width:100%;margin:16px auto;">
 </div>
 
 
